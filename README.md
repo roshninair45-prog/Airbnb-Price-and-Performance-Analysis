@@ -5,11 +5,11 @@ This project analyzes an extensive Airbnb listings dataset to understand the cri
 **Project Repository:** [Airbnb-Price-and-Performance-Analysis](https://github.com/roshninair45-prog/Airbnb-Price-and-Performance-Analysis)
 
 ## Team Members
-* [Valeria Vazquez Rueda]
-* [Ni Xie]
-* [Roshni Ramanathan]
-* [Jiaqi Yuan]
-* [Luis Gadiel Reyes Perez]
+* Valeria Vazquez Rueda
+* Ni Xie
+* Roshni Ramanathan
+* Jiaqi Yuan
+* Luis Gadiel Reyes Perez
 ## About the Dataset
 The data utilized for this project is stored in `Airbnb_Data.csv`, encompassing 74,111 listings with 29 feature columns. 
 The dataset contains a mix of categorical, geographical, and numerical information about the listings, including:
